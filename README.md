@@ -70,6 +70,13 @@ Currently learning how to learn
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
 ## Hobbies
-### Photos
-### Birdwatching
+- Photos
+- Birdwatching
+- Maker culture
 
+## And always looking with interest on
+- Electronic innovations
+- Permaculture, agrovoltaic, hydroponic
+- Technological advances in medicine and education
+- Decentralized networks
+- DIY
