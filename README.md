@@ -17,6 +17,7 @@ Currently, I actively seek out opportunities to expand my skills and experience,
 - Nature, Birdwatching
 
 ## And always looking with interest on
+- HomeAssistant, Home IoT
 - Electronic innovations
 - Permaculture, agrovoltaic, hydroponic
 - Technological advances in medicine and education
