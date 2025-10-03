@@ -1,4 +1,4 @@
-I am a Full-Stack .NET Developer with 11+ years of experience in developing web applications using C#, ASP.NET, and JavaScript. 
+I am a Full-Stack .NET/C# Developer with experience in developing web applications using C#, ASP.NET, and JavaScript. 
 I am skilled in the full development lifecycle of a project, including system integration and DevOps practices. 
 I am passionate about delivering robust, scalable and maintainable solutions. 
 Currently, I actively seek out opportunities to expand my skills and experience, viewing every challenge as a chance to grow in my field.
